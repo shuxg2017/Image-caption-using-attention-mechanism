@@ -1,6 +1,8 @@
 # Image Caption With Attention
 **In this project, we built a neural network model which can describe an image. (more details below)**
 
+- We trained with 50k images and 250k captions. (5 captions/image)
+- Data source: http://cocodataset.org/#download
 - Due to the size of the model, it is not able to be uploaded on this site :(
 - Model structure
   - InceptionV3 pre-trained model
