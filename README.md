@@ -3,7 +3,7 @@
 
 - We trained with 50k images and 250k captions. (5 captions/image)
 - Data source: http://cocodataset.org/#download
-- Due to the size of the model, it is not able to be uploaded on this site :(
+- Due to the size of the model, it is not able to be uploaded on this site :(. However, you can download my [code](https://github.com/shuxg2017/Image-caption-using-attention-mechanism/tree/master/imgcap_model).
 - Model structure
   - InceptionV3 pre-trained model
   - Feature map encoder
