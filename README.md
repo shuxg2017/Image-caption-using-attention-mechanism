@@ -1,7 +1,7 @@
 # Image Caption With Attention
-**In this project, we built a neural network model which can describe an image. (more details below)**
+**In this project, I built a neural network model which can describe an image. (more details below)**
 
-- We trained with 50k images and 250k captions. (5 captions/image)
+- I trained with 50k images and 250k captions. (5 captions/image)
 - Data source: http://cocodataset.org/#download
 - Due to the size of the model, it is not able to be uploaded on this site :(. However, you can download my [code](https://github.com/shuxg2017/Image-caption-using-attention-mechanism/tree/master/imgcap_model).
 - Model structure
